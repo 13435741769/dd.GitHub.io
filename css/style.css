@@ -1,0 +1,117 @@
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol, li, dl, dt, dd, form, a, fieldset, input, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: none;
+}
+body {
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #000000;
+	line-height: 30px;
+	text-align: left;
+	background-image: url(images/bei.jpg);
+	width: 100%;
+	height: 50px;
+	width: 100%;
+	height: 900px;
+	background-image: url(images/beijing.jpg);
+	background-attachment: fixed;
+}
+td, th {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #000000;
+}
+A:link {
+	TEXT-DECORATION: none;
+}
+A:visited {
+	TEXT-DECORATION: none;
+}
+.daohang a:hover {
+	color: #FF0000;
+	background-color: #990099;
+	display: block;
+}
+a:hover {
+	color: #FF0000;
+}
+ul, li {
+	list-style-type: none;
+}
+a {
+	color: #000000;
+}
+.clearit {
+	clear: both;
+}
+.banquan {
+	width: 900px;
+	height: 40px;
+	background-color: #bd7dc9;
+}
+.banquan p {
+	line-height: 40px;
+	font-size: 14px;
+	color: #343f00;
+	text-align: center;
+}
+.page {
+	width: 900px;
+	margin: 0 auto;
+}
+.daohang {
+	width: 900px;
+	height: 40px;
+	background-color: #bd7dc9;
+}
+.daohang ul li {
+	float: left;
+	line-height: 40px;
+	text-align: center;
+	width: 150px;
+	display: block;
+}
+.zuo {
+	float: left;
+	width: 380px;
+}
+.zuo img {
+	width: 380px;
+	height: 280px;
+}
+.you {
+	float: right;
+	width: 500px;
+}
+.zhong {
+	margin-top: 20px;
+}
+.tu {
+	float: left;
+	width: 290px;
+}
+h4 {
+	line-height: 30px;
+}
+.left {
+	float: left;
+	width: 280px;
+}
+.right {
+	float: right;
+	width: 600px;
+}
+.ren {
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.liuyan {
+	width: 900px;
+	background-color: #993366;
+}
+.liuyan table {
+	margin-left: 30px;
+}
